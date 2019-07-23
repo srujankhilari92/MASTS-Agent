@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MASTS Agent</string>
+    <string name="app_name_proxying">MASTS Agent</string>
+    <string name="action_settings">Settings</string>
+    <string name="MASTS_service">MASTS Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mass_logo">MASS LOGO</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="mass_proxy">VPROXY</string>
+    <string name="service">MASTS Agent Service</string>
+    <string name="poc_service">Mobile Suite Agent Service ON/OFF</string>
+    <string name="local_service_started">MASTS Agent Service Running</string>
+    <string name="local_service_stop">MASTS Agent Service Stop</string>
+    <string name="copy_rights">Copyright © 2017 Varutra Consulting Pvt. Ltd.- All Rights Reserved.</string>
+    <string name="live_streaming_service_started">Live Streaming Start</string>
+    <string name="live_streaming_service_stoped">Live Streaming Stop</string>
+    <string name="live_streaming_start_stop">Live Streaming Stop/Stop</string>
+    <string name="logout">Logout</string>
+    <string name="aboutlabel">About us</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="hide">Hide</string>
+    <string name="about">MASTS Guide</string>
+    <string name="CA">Download CA Certificate</string>
+    <string name="aboutus1">
+        <b>MASTS</b> Mobile Agent facilitates the user/tester to interact with the MASTS Server and the target mobile device. <br/>
+    </string>
+    <string name="aboutus2">
+        <b>MASTS</b> Agent requires rooted Android device for its successful operations.
+    </string>
+    <string name="aboutus3">
+        <b>MASTS</b> product documentation can be found at <a href="http://www.varutra.com/masts">www.varutra.com/masts</a> knowledge base section.
+    </string>
+    <string name="aboutus4">
+        <b>MASTS</b> Agent is available to download from Google Play Store.
+    </string>
+    
+    <string name="policy0">
+        <b>MASTS Agent Privacy Policy</b>
+    </string>
+    
+     <string name="policy1">
+       This Privacy Policy informs you how we collect and use the information you provide to us including use of www.varutra.com/masts, our product and its services. We understand how much an individual cares about the way his/her Personal Data is used. We are committed to protecting the integrity and confidentiality of your information and so act in a careful, sensible and responsible manner.
+    </string>
+    <string name="policy2">
+     What Information We Collect?
+	Some information we collect about you - information that the MASTS mobile device agent and your mobile device browser sends automatically while you browse our website and use our products.
+        
+    </string>
+    <string name="policy3">
+        
+We collect the following types of information from MASTS Agent users:
+Intranet Computer IP Address
+Intranet Computer Port Number
+Agent Username
+Agent Password
+        
+         </string>      
+    <string name="policy4">
+Uses Made Of The Information:
+Information which we collect may be used in the following ways:
+</string>
+<string name="policy5">
+Logs:
+When you visit our website or use MASTS mobile device agent, our servers automatically record information that your browser/agent sends. These log files tell us generally about the visitors to our site - general geographic regions, length of visits, pages clicked, etc. Rest assured, we can not tell who you are by examining our log files, except as anonymous users.
+</string>
+<string name="policy6">
+Device Information:
+We may collect information about the device you are using, our products and services or, including what type of device it is, what operating systems you are using, device settings, unique device identifiers.
+</string>
+<string name="policy7">
+Information you give to us,
+We will use this information:
+
+to provide you with the access to the target computer in the intranet
+</string>
+<string name="policy8">
+Product Use Information:
+Some of our products allow us to gather information about your computer (including your IP address). This is common for many software products, including games and tools. This information is always completely anonymous and only ever used to better understand how people use our software and how we can improve our products.
+
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our license terms or terms of use and other agreements; or to protect the rights, property, or safety of Varutra Consulting Private Limited, our customers, and or others.
+</string>
+<string name="policy9">
+Feedback:
+We encourage you to provide us with feedback in the form of emails. Once you email us or use the Contact Form, we maintain the anonymity and privacy of your email/message.
+</string>
+<string name="policy10">
+Spam and Sale of Information:
+We never liked SPAM. We will never SPAM you with any unsolicited email, and we will never sell information you have given us to other third parties.
+</string>
+<string name="policy11">
+Cookies:
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+</string>
+<string name="policy12">
+Where We Store your Data:
+Information is retained on your mobile device itself in secure fashion. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+</string>
+<string name="policy13">
+Installation of MASTS Software:
+By installing MASTS, you are agreeing to the Terms and Conditions contained in the EULA (end-user licence agreement) that appears when you run the installation program.
+</string>
+<string name="policy14">
+Specific terms for MASTS Agent for Android:
+MASTS Agent for Android requires access to certain personal information on your Android device to provide appropriate functionality. MASTS Agent for Android does not collect, transmit or store any personal information. Any personal information accessed is used locally on the device and solely for the application to provide suitable functionality. As we do not collect or store any personal information, we do not disclose and may not use your personal information in any way.
+</string>
+<string name="policy15">
+Changes to this Privacy Policy:
+We aim to meet high standards and our policies and procedures are therefore constantly under review. We may, therefore, change this privacy policy in future.
+</string>
+<string name="policy16">
+Contact us:
+Please feel free to contact us contact at:
+
+Address: Varutra Consulting Private Limited
+A-302 and A-303, Oxy Primo, Pune-Nagar Highway,
+Wagholi, Pune-412207, MH, India.
+Email: contactus@varutra.com / masts@varutra.com
+Telephone: +91 - 8554 811 911
+</string>
+    
+    
+    <string name="preference_proxy">Proxy port</string>
+    <string name="preference_proxy_port_text">Port</string>
+    <string name="preference_proxy_port_value">9008</string>
+    <string name="no_data">No data</string>
+    <string name="preference_proxy_plugin_enabled">Use custom plugin</string>
+    <string name="title_activity_main">VProxyPlugin</string>
+    <string name="on_proxy">Stop VProxy</string>
+    <string name="off_proxy">Start VProxy</string>
+    <string name="data_storage_missing">Missing data storage!</string>
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#979797</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+</resources>

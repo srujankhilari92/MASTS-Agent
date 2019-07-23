@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- <item type="id" name="text_view_header">false</item>
+    <item type="id" name="start_service">false</item>
+    <item type="id" name="stop_service">false</item>
+    <item type="id" name="chmod_service">false</item>
+    <item type="id" name="proxying_service">false</item>-->
+   <!-- <item type="id" name="TCPStart_service">false</item>
+    <item type="id" name="TCPStop_service">false</item>-->
+<!--    <item type="id" name="enable">false</item>
+    <item type="id" name="preference_first_line">false</item>
+    <item type="id" name="preference_value">false</item>
+    <item type="id" name="action_settings">false</item>-->
+</resources>

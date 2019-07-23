@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    
+    <TextView
+        android:id="@+id/policytextView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy0"
+        android:singleLine="false"
+        android:textSize="15dp" />
+    
+    <TextView
+        android:id="@+id/policytextView1"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy1"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView2"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/policy2"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView3"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy3"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView4"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy4"
+        android:textSize="15dp" />
+
+    
+    <TextView
+        android:id="@+id/policytextView5"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy5"
+        android:singleLine="false"
+        android:textSize="15dp" />
+    
+    <TextView
+        android:id="@+id/policytextView6"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy6"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView7"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/policy7"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView8"
+        android:layout_width="match_parent"
+        android:layout_height="310dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy8"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView9"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy9"
+        android:textSize="15dp" />
+    
+    
+    <TextView
+        android:id="@+id/policytextView10"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy10"
+        android:singleLine="false"
+        android:textSize="15dp" />
+    
+    <TextView
+        android:id="@+id/policytextView11"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/policy11"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView12"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/policy12"
+        android:singleLine="false"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView13"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy13"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/policytextView14"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy14"
+        android:textSize="15dp" />
+    
+     <TextView
+        android:id="@+id/policytextView15"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy15"
+        android:textSize="15dp" />
+     <TextView
+        android:id="@+id/policytextView16"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:singleLine="false"
+        android:text="@string/policy16"
+        android:textSize="15dp" />
+    
+</LinearLayout>
+</ScrollView>

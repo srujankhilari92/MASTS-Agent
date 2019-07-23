@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:gravity="center_horizontal"
+    android:paddingBottom="0dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="0dp" >
+
+    <PreferenceCategory
+        android:background="@android:color/transparent"
+        android:key="mainSettings"
+        android:title="Proxy Service Settings" >
+
+        <CheckBoxPreference
+            android:id="@+id/enable"
+            android:background="@android:color/transparent"
+            android:enabled="true"
+            android:key="isEnabled"
+            android:selectable="true"
+            android:shouldDisableView="true"
+            android:summary="Enable/Disable proxy"
+            android:title="Proxy" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:background="@android:color/transparent"
+        android:key="proxySettings"
+        android:summary="Basic setup of transparent proxy"
+        android:title="Proxy Settings" >
+
+        <EditTextPreference
+            android:background="@android:color/transparent"
+            android:key="proxyHost"
+            android:summary="Host address of the proxy server"
+            android:title="Proxy Host" />
+
+        <EditTextPreference
+            android:background="@android:color/transparent"
+            android:key="proxyPort"
+            android:maxLength="5"
+            android:numeric="integer"
+            android:summary="Host port of proxy server"
+            android:title="Proxy Port" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:background="@android:color/transparent"
+        android:key="authSettings"
+        android:summary="Settings of proxy authentication"
+        android:title="Proxy Authentication" >
+
+        <CheckBoxPreference
+            android:background="@android:color/transparent"
+            android:defaultValue="false"
+            android:enabled="true"
+            android:key="isAuthEnabled"
+            android:selectable="true"
+            android:shouldDisableView="true"
+            android:summary="Enable/disable proxy authentication"
+            android:title="Proxy Auth" />
+
+        <EditTextPreference
+            android:background="@android:color/transparent"
+            android:dependency="isAuthEnabled"
+            android:key="username"
+            android:summary="Username for proxy authentication"
+            android:title="Proxy Username" />
+
+        <EditTextPreference
+            android:background="@android:color/transparent"
+            android:dependency="isAuthEnabled"
+            android:key="password"
+            android:password="true"
+            android:selectable="true"
+            android:summary="Password for proxy authentication"
+            android:title="Proxy Password" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:background="@android:color/transparent"
+        android:key="about"
+        android:summary="About"
+        android:title="About" >
+
+        <EditTextPreference
+            android:background="@android:color/transparent"
+            android:key="version"
+            android:layout="@layout/simple"
+            android:selectable="false"
+            android:summary="Varutra Proxy version"
+            android:title="Version" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

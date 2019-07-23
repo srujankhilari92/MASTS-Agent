@@ -1,0 +1,89 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+
+
+-optimizationpasses 5
+
+-dontusemixedcaseclassnames
+
+-dontskipnonpubliclibraryclasses
+
+-dontpreverify
+
+-dontnote
+
+-verbose
+
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+-dontwarn java.beans.**
+-dontwarn java.awt.**
+-dontwarn java.applet.**
+-dontwarn java.util.**
+-dontwarn javax.swing.**
+-dontwarn javax.servlet.**
+-dontwarn org.htmlparser.**
+-dontwarn org.apache.**
+-dontwarn bsh.util.**
+-dontwarn org.varutra.**
+-dontwarn jcifs.http.**
+-dontwarn sun.misc.Unsafe, java.lang.management.ManagementFactory, org.codehaus.jackson.JsonParser, org.json.JSONObject, org.codehaus.jackson.JsonGenerator, org.codehaus.jackson.JsonFactory, com.google.common.collect.MinMaxPriorityQueue
+-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable
+-dontskipnonpubliclibraryclassmembers
+-keep public class * extends android.app.Application
+
+-keep public class com.android.vending.licensing.ILicensingService
+
+-keepclasseswithmembers class * {
+
+   native <methods>;
+
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet); 
+}
+
+-keepclasseswithmembers class * {
+    public <init>(android.content.Context, android.util.AttributeSet, int); 
+}
+
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keepclassmembers class * extends android.app.Activity {
+
+   public void *(android.view.View);
+
+}
+ -keep public class * extends android.app.PreferenceActivity
+-keep public class * extends android.view.View
+-keep public class * extends android.widget.BaseAdapter
+-keep public class * implements android.view.View.OnTouchListener
+
+ -keep class * implements android.os.Parcelable {
+
+  public static final android.os.Parcelable$Creator *;
+
+}

@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_150.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\login_150.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_btn_beige.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\custom_btn_beige.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_300.jpg.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\header_300.jpg"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_default_bg.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\edittext_default_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_600.jpg.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\header_600.jpg"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen_background.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\splashscreen_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts2_500.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts2_500.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vproxying.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\vproxying.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\menu_v_menu.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\menu\\v_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fail.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\fail.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_bottom_bg.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\edittext_bottom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_service_160.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\start_service_160.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_default_bg.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\button_default_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\raw_server_p12.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\raw\\server_p12"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vproxy_100_200.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\vproxy_100_200.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_100.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\cancel_100.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_color.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_200.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\cancel_200.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_color_two.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\background_color_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_view.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_view.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pin_sq_left_icon_32.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\pin_sq_left_icon_32.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_top_bg.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\edittext_top_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg1.jpg.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_vproxy_activity_new.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\vproxy_activity_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_border_pressed.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\button_border_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop_100.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\stop_100.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_compass.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_compass.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobilesuiteagent_500.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobilesuiteagent_500.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_padlock_closed_icon_32.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\padlock_closed_icon_32.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_align_just_icon_32.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\align_just_icon_32.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_button.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\blue_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_new_six_new.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\login_new_six_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobilesuiteagent_300.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobilesuiteagent_300.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_set_as.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_set_as.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts2_250.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts2_250.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vproxy.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\vproxy.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_200.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\login_200.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts3_500.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts3_500.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_logout.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_button.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\red_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_rounded.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\header_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_button1.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\black_button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_mass_status_two.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\mass_status_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_100.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\start_100.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_black_border.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-xxhdpi\\black_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_button.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\black_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts1.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts1.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_align_just_icon_48.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\align_just_icon_48.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pin_sq_left_icon_24.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\pin_sq_left_icon_24.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_100.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\login_100.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_play_clip.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_play_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_loading_bar.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\notification_loading_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop_service_150.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\stop_service_150.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show_menu_icon_50.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\show_menu_icon_50.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_success.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_screen.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\welcome_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_clear_playlist.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_aboutmastsagent.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\aboutmastsagent.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts1_500.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts1_500.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobileagent_200.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobileagent_200.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_button2.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\black_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_log_twonew.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\log_twonew.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_layout_border_two.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\login_layout_border_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\anim_button_elevation.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\anim\\button_elevation.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mass5_400.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mass5_400.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mass5_300.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mass5_300.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_padlock_closed_icon_white_32.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\padlock_closed_icon_white_32.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_service_150.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\start_service_150.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobileagent_300.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobileagent_300.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linearlayout_bg.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\linearlayout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_layout_border.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\login_layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts3.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts3.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_border.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainview.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\mainview.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header.jpg.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\header.jpg"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastlogonotification.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\mastlogonotification.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\layout_policymastsagent.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\layout\\policymastsagent.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\color_button_text_selector.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\color\\button_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_icon_32.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\user_icon_32.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_align_just_icon_24.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\align_just_icon_24.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_close_clear_cancel.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_maroon_border.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-xxhdpi\\maroon_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_masts2.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\masts2.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastsagentlogo.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\mastsagentlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_btn_arsenic.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\custom_btn_arsenic.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_button_new.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\black_button_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_125.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\login_125.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobileagent.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobileagent.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vproxy_200_400.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\vproxy_200_400.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_screen_color.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\notification_screen_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobileagent_250.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\mobileagent_250.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_align_just_icon_16.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\align_just_icon_16.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_border.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_btn_breaker_bay.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\custom_btn_breaker_bay.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marron_button.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\marron_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_varutra_logo.xml.flat",
+        "source": "C:\\Users\\satya.varada\\AndroidStudioProjects\\MASTSAgent\\app\\src\\main\\res\\drawable\\varutra_logo.xml"
+    }
+]

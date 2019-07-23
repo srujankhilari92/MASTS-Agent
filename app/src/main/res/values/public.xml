@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <public id="0x7f020000" name="ic_launcher" type="drawable" />     
+    <public id="0x7f040000" name="activity_horizontal_margin" type="dimen" />
+    <public id="0x7f040001" name="activity_vertical_margin" type="dimen" />
+    <public id="0x7f050000" name="app_name" type="string" />
+    <public id="0x7f050001" name="action_settings" type="string" />
+    <public id="0x7f050002" name="hello_world" type="string" />
+    <public id="0x7f050003" name="poc_service" type="string" />
+    <public id="0x7f060000" name="AppBaseTheme" type="style" />
+    <public id="0x7f060001" name="AppTheme" type="style" />   
+    <public id="0x7f070001" name="main" type="menu" />
+    <public id="0x7f080000" name="text_view_header" type="id" />
+    <public id="0x7f080001" name="start_service" type="id" />
+    <public id="0x7f080002" name="stop_service" type="id" />
+    <public id="0x7f080003" name="chmod_service" type="id" />
+    <public id="0x7f080004" name="proxying_service" type="id" />
+    <public id="0x7f080005" name="TCPStart_service" type="id" />
+    <public id="0x7f080006" name="TCPStop_service" type="id" />
+    <public id="0x7f080007" name="enable" type="id" />
+    <public id="0x7f080008" name="preference_first_line" type="id" />
+    <public id="0x7f080009" name="preference_value" type="id" />
+    
+
+</resources>
